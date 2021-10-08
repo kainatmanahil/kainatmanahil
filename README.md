@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **yet not decided**
 
-- 🤝 I’m looking for help with **Subaina ilyas, Mahrukh ibrahim and Kinza yousaf**
+- 🤝 I’m looking for help with **Subaina ilyas, Mahrukh ibrahim and Kinza yousaf Hamza Rajput**
 
 - 📝 I regularly write articles on [web desinging](web desinging)
 
