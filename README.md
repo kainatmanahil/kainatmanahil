@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kainatmanahil" alt="kainatmanahil" /></a> </p>
 
-- 🔭 I’m currently working on **Web Developer**
+- 🔭 I’m currently working on **Web Developing**
 
 - 🌱 I’m currently learning **Python, C++**
 
 - 👯 I’m looking to collaborate on **yet not decided**
 
-- 🤝 I’m looking for help with **Subaina ilyas, Mahrukh ibrahim and Kinza yousaf Hamza Rajput**
+- 🤝 I’m looking for help with **Subaina ilyas, Mahrukh ibrahim Kinza yousaf and Hamza Rajput**
 
 - 📝 I regularly write articles on [web desinging](web desinging)
 
