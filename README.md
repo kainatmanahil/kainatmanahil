@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Developing**
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python, C++, CSS ,php**
 
 - 👯 I’m looking to collaborate on **yet not decided**
 
