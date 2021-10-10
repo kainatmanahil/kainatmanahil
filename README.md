@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [web desinging](web desinging)
 
-- 💬 Ask me about **Developing Wbs**
+- 💬 Ask me about **Developing Webs**
 
 - 📫 How to reach me **kainatmanahil48@gmail.com**
 
