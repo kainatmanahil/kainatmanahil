@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kainat Manahil</h1>
-<h3 align="center">Still a Learner student at University of Balochistan, Quetta Pakistan</h3>
+<h3 align="center">Still a Learner at University of Balochistan, Quetta Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainatmanahil&label=Profile%20views&color=0e75b6&style=flat" alt="kainatmanahil" /> </p>
 
