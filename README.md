@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Submitting Assignments Online**
 
-- 🌱 I’m currently learning **Python, C++, CSS ,php**
+- 🌱 My notebook Languages are **Python, C++, CSS ,php, Java, JS, HTML, SQL**
 
 - 👯 I’m looking to collaborate on **yet not decided**
 
@@ -15,11 +15,9 @@
 
 - 📝 I regularly write articles on [web desinging](web desinging)
 
-- 💬 Ask me about **Developing Webs**
+- 💬 Ask me about **Developing Webs, Developing apps and data sciences etc**
 
 - 📫 How to reach me **kainatmanahil48@gmail.com**
-
-- ⚡ Fun fact **LMAO, Don't Even Think To Ask!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
