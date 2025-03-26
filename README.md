@@ -9,15 +9,13 @@
 
 - 🌱 My notebook Languages are **Python, C++, CSS ,php, Java, JS, HTML, SQL**
 
-- 👯 I’m looking to collaborate on **yet not decided**
-
 - 🤝 I’m looking for help with **Subaina ilyas, Mahrukh ibrahim Kinza yousaf and Hamza Rajput**
 
 - 📝 I regularly write articles on [web desinging](web desinging)
 
 - 💬 Ask me about **Developing Webs, Developing apps and data sciences etc**
 
-- 📫 How to reach me **kainatmanahil48@gmail.com**
+- 📫 How to reach me **kainatmanahil82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
